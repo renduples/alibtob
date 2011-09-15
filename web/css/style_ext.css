@@ -1,0 +1,72 @@
+/* --- Common --- */
+.msgWarn {
+	background-color: #F0E68C;
+}
+.msgErr {	
+	color: darkred;
+	background-color: #ffdddd;	
+}
+
+/* --- General Data Form --- */
+.dataForm span {
+	display: block;
+	margin-top: 10px;
+}
+.dataForm input {
+	width: 300px;
+	height: 20px;
+	margin-right: 10px;
+}
+.dataForm textarea {
+	margin-right: 10px;
+}
+.dataForm .fcheckbox {
+	width: 20px;
+	vertical-align: bottom;
+}
+.dataForm textarea {
+	width: 400px;
+	height: 150px;
+}
+.dataForm input[type="submit"] {
+	display: block;
+	width: 80px;
+	height: 25px;	
+	margin-top: 10px;
+	border: solid 1px #ccc;
+}
+.dataForm input[type="submit"]:hover {	
+	border: solid 1px #777;
+}
+.dataForm .fmsg {
+	display: inline;	
+	color: darkred;
+	background-color: #ffc;	
+	font-size: 0.9em;	
+}
+
+/* --- Signin Form --- */
+#signinForm span {
+	display: block;
+	margin-top: 10px;
+}
+#signinForm input {
+	width: 150px;
+	height: 20px;
+}
+#signinForm #signinSubmit {	
+	display: block;
+	width: 80px;
+	height: 25px;
+	margin-top: 15px;
+	border: solid 1px #ccc;
+}
+#signinForm #signinSubmit:hover {	
+	border: solid 1px #777;
+}
+#signinForm .fmsg {
+	display: inline;
+	font-size: 0.9em;
+	color: darkred;
+	background-color: #ffc;	
+}

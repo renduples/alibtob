@@ -1,0 +1,26 @@
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function($) {
+	$(document).ready(function() {	
+		TPF.appendHead({
+			css : ['/app/ext/twitter/css/jquery.twitter.css'],
+			js  : ['/app/ext/twitter/js/jquery.twitter.js'],
+			jsFilesLoaded : function() {
+				$(document).ready(function() {
+					$("#twitter").getTwitter({
+						userName: "{$twitterUsername}",
+						numTweets: 5,
+						loaderText: "Loading tweets...",
+						slideIn: false,
+						showHeading: true,
+						headingText: "Latest Tweets",
+						showProfileLink: true
+					});
+				});
+			}
+		});
+	});
+})(jQuery);
+//--><!]]>
+</script>
+<div id="twitter"></div>

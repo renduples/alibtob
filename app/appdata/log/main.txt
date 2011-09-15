@@ -1,0 +1,268 @@
+2011-08-28 09:23:14.505 MainController [DEBUG] - handle() route: /app//.php
+2011-08-28 09:34:30.706 MainController [DEBUG] - handle() route: /app/controller/DatabaseTest.php
+2011-08-28 09:34:30.911 MainController [DEBUG] - handle() ended
+2011-08-28 11:56:43.260 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-28 11:56:43.505 MainController [DEBUG] - handle() ended
+2011-08-28 11:56:49.808 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 12:03:53.167 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 12:03:55.761 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 12:06:12.985 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 12:06:20.011 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-28 12:06:20.179 MainController [DEBUG] - handle() ended
+2011-08-28 12:06:25.073 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 12:07:28.492 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 12:10:29.254 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 12:11:02.657 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 12:14:32.851 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 12:16:21.339 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 12:16:26.740 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 12:16:48.575 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 12:19:52.578 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 12:20:51.675 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 12:22:21.152 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 12:22:21.289 MainController [DEBUG] - handle() ended
+2011-08-28 12:23:05.507 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 12:23:05.574 MainController [DEBUG] - handle() ended
+2011-08-28 12:23:08.769 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 12:23:08.819 MainController [DEBUG] - handle() ended
+2011-08-28 12:23:11.955 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 12:23:11.003 MainController [DEBUG] - handle() ended
+2011-08-28 13:54:01.804 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 13:54:02.037 MainController [DEBUG] - handle() ended
+2011-08-28 13:54:15.538 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 13:54:15.610 MainController [DEBUG] - handle() ended
+2011-08-28 13:54:24.088 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 13:54:24.152 MainController [DEBUG] - handle() ended
+2011-08-28 13:54:30.263 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 13:54:30.331 MainController [DEBUG] - handle() ended
+2011-08-28 13:54:35.312 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 13:54:35.379 MainController [DEBUG] - handle() ended
+2011-08-28 13:55:54.428 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 13:55:54.654 MainController [DEBUG] - handle() ended
+2011-08-28 13:55:56.693 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 13:55:56.769 MainController [DEBUG] - handle() ended
+2011-08-28 13:56:00.621 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 13:56:00.691 MainController [DEBUG] - handle() ended
+2011-08-28 14:00:22.759 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:00:22.824 MainController [DEBUG] - handle() ended
+2011-08-28 14:00:25.512 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:00:25.561 MainController [DEBUG] - handle() ended
+2011-08-28 14:00:33.925 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:00:33.973 MainController [DEBUG] - handle() ended
+2011-08-28 14:00:36.999 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:00:37.045 MainController [DEBUG] - handle() ended
+2011-08-28 14:04:24.326 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:04:24.386 MainController [DEBUG] - handle() ended
+2011-08-28 14:04:47.912 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:04:47.968 MainController [DEBUG] - handle() ended
+2011-08-28 14:06:04.659 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-28 14:06:04.944 MainController [DEBUG] - handle() ended
+2011-08-28 14:06:10.582 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:06:10.803 MainController [DEBUG] - handle() ended
+2011-08-28 14:06:14.331 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:06:14.405 MainController [DEBUG] - handle() ended
+2011-08-28 14:06:16.177 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:06:16.247 MainController [DEBUG] - handle() ended
+2011-08-28 14:06:23.222 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:06:23.279 MainController [DEBUG] - handle() ended
+2011-08-28 14:06:31.765 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:06:31.817 MainController [DEBUG] - handle() ended
+2011-08-28 14:06:42.719 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:06:42.793 MainController [DEBUG] - handle() ended
+2011-08-28 14:11:07.594 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:11:07.652 MainController [DEBUG] - handle() ended
+2011-08-28 14:11:10.185 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:11:10.233 MainController [DEBUG] - handle() ended
+2011-08-28 14:11:12.623 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:11:12.678 MainController [DEBUG] - handle() ended
+2011-08-28 14:11:14.176 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:11:14.227 MainController [DEBUG] - handle() ended
+2011-08-28 14:11:15.942 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:11:15.991 MainController [DEBUG] - handle() ended
+2011-08-28 14:11:17.952 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:11:17.002 MainController [DEBUG] - handle() ended
+2011-08-28 14:11:20.058 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:11:20.106 MainController [DEBUG] - handle() ended
+2011-08-28 14:11:22.716 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:11:22.762 MainController [DEBUG] - handle() ended
+2011-08-28 14:11:24.487 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:11:24.533 MainController [DEBUG] - handle() ended
+2011-08-28 14:11:26.205 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:11:26.254 MainController [DEBUG] - handle() ended
+2011-08-28 14:11:28.037 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:11:28.087 MainController [DEBUG] - handle() ended
+2011-08-28 14:11:44.102 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:11:44.158 MainController [DEBUG] - handle() ended
+2011-08-28 14:11:47.385 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:11:47.432 MainController [DEBUG] - handle() ended
+2011-08-28 14:11:49.270 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:11:49.324 MainController [DEBUG] - handle() ended
+2011-08-28 14:11:50.853 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:11:50.905 MainController [DEBUG] - handle() ended
+2011-08-28 14:11:52.304 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:11:52.352 MainController [DEBUG] - handle() ended
+2011-08-28 14:11:54.669 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:11:54.718 MainController [DEBUG] - handle() ended
+2011-08-28 14:12:53.048 MainController [DEBUG] - handle() route: /app/controller/products/OurProducts.php
+2011-08-28 14:12:53.139 MainController [DEBUG] - handle() ended
+2011-08-28 14:12:55.888 MainController [DEBUG] - handle() route: /app/controller/products/cat1/TShirts.php
+2011-08-28 14:12:55.978 MainController [DEBUG] - handle() ended
+2011-08-28 14:12:58.342 MainController [DEBUG] - handle() route: /app/controller/Search.php
+2011-08-28 14:12:58.451 MainController [DEBUG] - handle() ended
+2011-08-28 14:14:07.337 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-28 14:14:07.377 MainController [DEBUG] - handle() ended
+2011-08-28 14:14:21.880 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-28 14:14:22.023 MainController [DEBUG] - handle() ended
+2011-08-28 14:14:24.337 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-28 14:14:24.385 MainController [DEBUG] - handle() ended
+2011-08-28 14:14:26.687 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-28 14:14:26.720 MainController [DEBUG] - handle() ended
+2011-08-28 14:22:09.835 MainController [DEBUG] - handle() route: /app/ext/blog/Blog.php
+2011-08-28 14:22:10.063 MainController [DEBUG] - handle() ended
+2011-08-28 14:22:10.211 MainController [DEBUG] - handle() route: /app/ext/blog/Blog.php
+2011-08-28 14:22:10.315 MainController [DEBUG] - handle() ended
+2011-08-28 14:22:17.619 MainController [DEBUG] - handle() route: /app/ext/blog/Blog.php
+2011-08-28 14:22:17.834 MainController [DEBUG] - handle() ended
+2011-08-28 14:22:20.598 MainController [DEBUG] - handle() route: /app/ext/blog/Blog.php
+2011-08-28 14:22:24.536 MainController [DEBUG] - handle() route: /app/ext/blog/Blog.php
+2011-08-28 14:22:24.633 MainController [DEBUG] - handle() ended
+2011-08-28 14:22:29.779 MainController [DEBUG] - handle() route: /app/controller/products/OurProducts.php
+2011-08-28 14:22:29.833 MainController [DEBUG] - handle() ended
+2011-08-28 14:22:32.035 MainController [DEBUG] - handle() route: /app/controller/products/cat1/TShirts.php
+2011-08-28 14:22:32.077 MainController [DEBUG] - handle() ended
+2011-08-28 14:22:34.981 MainController [DEBUG] - handle() route: /app/controller/products/cat1/TShirts.php
+2011-08-28 14:22:35.025 MainController [DEBUG] - handle() ended
+2011-08-28 14:22:39.806 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-28 14:22:39.852 MainController [DEBUG] - handle() ended
+2011-08-28 14:22:43.879 MainController [DEBUG] - handle() route: /app/controller/Article.php
+2011-08-28 14:22:43.966 MainController [DEBUG] - handle() ended
+2011-08-28 14:22:47.508 MainController [DEBUG] - handle() route: /app/controller/Article.php
+2011-08-28 14:22:47.540 MainController [DEBUG] - handle() ended
+2011-08-28 14:22:50.300 MainController [DEBUG] - handle() route: /app/controller/Article.php
+2011-08-28 14:22:50.330 MainController [DEBUG] - handle() ended
+2011-08-28 14:22:52.825 MainController [DEBUG] - handle() route: /app/controller/Article.php
+2011-08-28 14:22:52.859 MainController [DEBUG] - handle() ended
+2011-08-28 14:22:54.543 MainController [DEBUG] - handle() route: /app/controller/Search.php
+2011-08-28 14:22:54.595 MainController [DEBUG] - handle() ended
+2011-08-28 14:22:56.651 MainController [DEBUG] - handle() route: /app/controller/Search.php
+2011-08-28 14:22:56.698 MainController [DEBUG] - handle() ended
+2011-08-28 14:22:59.835 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-28 14:22:59.875 MainController [DEBUG] - handle() ended
+2011-08-28 14:23:01.641 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-28 14:23:01.687 MainController [DEBUG] - handle() ended
+2011-08-28 14:23:06.865 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-28 14:23:06.919 MainController [DEBUG] - handle() ended
+2011-08-28 14:23:10.253 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-28 14:23:10.286 MainController [DEBUG] - handle() ended
+2011-08-28 14:23:12.485 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-28 14:23:12.528 MainController [DEBUG] - handle() ended
+2011-08-28 14:23:14.413 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-28 14:23:14.459 MainController [DEBUG] - handle() ended
+2011-08-28 14:23:17.938 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-28 14:23:17.978 MainController [DEBUG] - handle() ended
+2011-08-28 14:23:21.844 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-28 14:23:21.888 MainController [DEBUG] - handle() ended
+2011-08-28 14:23:24.414 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-28 14:23:24.465 MainController [DEBUG] - handle() ended
+2011-08-28 14:23:31.485 MainController [DEBUG] - handle() route: /app/controller/products/OurProducts.php
+2011-08-28 14:23:31.532 MainController [DEBUG] - handle() ended
+2011-08-28 14:23:34.130 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:23:34.213 MainController [DEBUG] - handle() ended
+2011-08-28 14:23:38.237 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:23:38.302 MainController [DEBUG] - handle() ended
+2011-08-28 14:23:40.587 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:23:40.659 MainController [DEBUG] - handle() ended
+2011-08-28 14:23:42.483 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:23:42.538 MainController [DEBUG] - handle() ended
+2011-08-28 14:23:44.720 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:23:44.793 MainController [DEBUG] - handle() ended
+2011-08-28 14:23:46.934 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:23:47.009 MainController [DEBUG] - handle() ended
+2011-08-28 14:24:16.143 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:24:16.203 MainController [DEBUG] - handle() ended
+2011-08-28 14:24:18.913 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:24:18.972 MainController [DEBUG] - handle() ended
+2011-08-28 14:24:21.490 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-28 14:24:21.540 MainController [DEBUG] - handle() ended
+2011-08-28 14:24:26.798 MainController [DEBUG] - handle() route: /app/controller/EditablePage.php
+2011-08-28 14:24:26.920 MainController [DEBUG] - handle() ended
+2011-08-28 14:24:42.250 MainController [DEBUG] - handle() route: /app/controller/WikiTest.php
+2011-08-28 14:24:42.376 MainController [DEBUG] - handle() ended
+2011-08-28 14:25:18.456 MainController [DEBUG] - handle() route: /app/controller/Search.php
+2011-08-28 14:25:18.493 MainController [DEBUG] - handle() ended
+2011-08-28 14:25:31.782 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-28 14:25:31.824 MainController [DEBUG] - handle() ended
+2011-08-28 14:25:34.452 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-28 14:25:34.497 MainController [DEBUG] - handle() ended
+2011-08-28 14:25:36.472 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-28 14:25:36.520 MainController [DEBUG] - handle() ended
+2011-08-28 14:25:39.535 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-28 14:25:39.590 MainController [DEBUG] - handle() ended
+2011-08-29 03:04:10.192 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-29 03:04:10.289 MainController [DEBUG] - handle() ended
+2011-08-29 03:05:05.429 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-29 03:05:05.483 MainController [DEBUG] - handle() ended
+2011-08-29 03:05:10.068 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-29 03:05:10.112 MainController [DEBUG] - handle() ended
+2011-08-29 03:05:13.505 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-29 03:05:13.554 MainController [DEBUG] - handle() ended
+2011-08-29 03:05:22.925 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-29 03:05:22.964 MainController [DEBUG] - handle() ended
+2011-08-29 03:05:28.149 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-29 03:05:28.209 MainController [DEBUG] - handle() ended
+2011-08-29 03:05:36.420 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-29 03:05:36.461 MainController [DEBUG] - handle() ended
+2011-08-29 03:05:38.163 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-29 03:05:38.209 MainController [DEBUG] - handle() ended
+2011-08-29 03:05:41.142 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-29 03:05:41.176 MainController [DEBUG] - handle() ended
+2011-08-29 03:05:47.634 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-29 03:05:47.668 MainController [DEBUG] - handle() ended
+2011-08-29 03:05:50.906 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-29 03:05:50.948 MainController [DEBUG] - handle() ended
+2011-08-29 03:06:32.649 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-29 03:06:32.832 MainController [DEBUG] - handle() ended
+2011-08-29 03:06:44.953 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-29 03:06:45.032 MainController [DEBUG] - handle() ended
+2011-08-29 03:06:46.876 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-29 03:06:46.943 MainController [DEBUG] - handle() ended
+2011-08-29 03:06:52.710 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-29 03:06:52.762 MainController [DEBUG] - handle() ended
+2011-08-29 03:06:55.511 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-29 03:06:55.584 MainController [DEBUG] - handle() ended
+2011-08-29 03:06:57.994 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-29 03:06:58.071 MainController [DEBUG] - handle() ended
+2011-08-29 03:07:15.182 MainController [DEBUG] - handle() route: /app/controller/Search.php
+2011-08-29 03:07:15.239 MainController [DEBUG] - handle() ended
+2011-08-29 23:45:36.381 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-29 23:45:36.460 MainController [DEBUG] - handle() ended
+2011-08-29 23:47:21.206 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-29 23:47:21.269 MainController [DEBUG] - handle() ended
+2011-08-29 23:47:25.565 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-29 23:47:25.601 MainController [DEBUG] - handle() ended
+2011-08-29 23:47:27.752 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-29 23:47:27.800 MainController [DEBUG] - handle() ended
+2011-08-29 23:47:29.946 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-29 23:47:29.983 MainController [DEBUG] - handle() ended
+2011-08-29 23:47:32.584 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-29 23:47:32.615 MainController [DEBUG] - handle() ended
+2011-08-29 23:47:36.302 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-29 23:47:36.342 MainController [DEBUG] - handle() ended
+2011-08-29 23:47:44.697 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-29 23:47:44.743 MainController [DEBUG] - handle() ended
+2011-08-29 23:47:49.521 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-29 23:47:49.554 MainController [DEBUG] - handle() ended
+2011-08-29 23:53:38.627 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-29 23:53:38.717 MainController [DEBUG] - handle() ended
+2011-08-30 00:33:53.638 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-30 00:33:53.683 MainController [DEBUG] - handle() ended
+2011-08-30 18:44:39.455 MainController [DEBUG] - handle() route: /app/controller/Home.php
+2011-08-30 18:44:39.626 MainController [DEBUG] - handle() ended
+2011-08-30 20:08:03.877 MainController [DEBUG] - handle() route: /app/controller/Search.php
+2011-08-30 20:08:03.922 MainController [DEBUG] - handle() ended
+2011-08-30 20:11:22.579 MainController [DEBUG] - handle() route: /app/controller/products/OurProducts.php
+2011-08-30 20:11:22.613 MainController [DEBUG] - handle() ended
+2011-08-30 20:11:36.344 MainController [DEBUG] - handle() route: /app/controller/Members.php
+2011-08-30 20:11:36.432 MainController [DEBUG] - handle() ended
+2011-08-30 20:13:03.480 MainController [DEBUG] - handle() route: /app/controller/products/OurProducts.php
+2011-08-30 20:13:03.512 MainController [DEBUG] - handle() ended

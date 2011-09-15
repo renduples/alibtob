@@ -1,0 +1,21 @@
+<h3>{$title}</h3>
+{if !empty($members)}
+<table>
+	<tr>
+		<th>Username</th>
+		<th>Email</th>
+		<th>Joined</th>
+		<th>Action</th>
+	</tr>
+{foreach item=user from=$members}
+	<tr class="{cycle values="rowA,rowB"}">
+		<td>{$user.username}</td>
+		<td>{$user.email}</td>
+		<td>{$user.created}</td>
+		<td><a href="/members/remove/{$user.id}">Remove</a></td>
+	</tr>
+{/foreach}
+</table>
+{/if}
+<p><a href="/members/add">Add a Test User</a> (random data) - or <a href="/register">Register</a></p>
+<p>Total {$totalMembers} members(s)</p>
